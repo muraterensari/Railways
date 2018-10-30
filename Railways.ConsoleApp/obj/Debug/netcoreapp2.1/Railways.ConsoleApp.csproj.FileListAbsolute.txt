@@ -1,0 +1,14 @@
+C:\Projects\Railways\Railways.ConsoleApp\bin\Debug\netcoreapp2.1\Railways.ConsoleApp.deps.json
+C:\Projects\Railways\Railways.ConsoleApp\bin\Debug\netcoreapp2.1\Railways.ConsoleApp.runtimeconfig.json
+C:\Projects\Railways\Railways.ConsoleApp\bin\Debug\netcoreapp2.1\Railways.ConsoleApp.runtimeconfig.dev.json
+C:\Projects\Railways\Railways.ConsoleApp\bin\Debug\netcoreapp2.1\Railways.ConsoleApp.dll
+C:\Projects\Railways\Railways.ConsoleApp\bin\Debug\netcoreapp2.1\Railways.ConsoleApp.pdb
+C:\Projects\Railways\Railways.ConsoleApp\bin\Debug\netcoreapp2.1\Railways.Manager.dll
+C:\Projects\Railways\Railways.ConsoleApp\bin\Debug\netcoreapp2.1\Railways.Manager.pdb
+C:\Projects\Railways\Railways.ConsoleApp\obj\Debug\netcoreapp2.1\Railways.ConsoleApp.csprojAssemblyReference.cache
+C:\Projects\Railways\Railways.ConsoleApp\obj\Debug\netcoreapp2.1\Railways.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\Railways\Railways.ConsoleApp\obj\Debug\netcoreapp2.1\Railways.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\Railways\Railways.ConsoleApp\obj\Debug\netcoreapp2.1\Railways.ConsoleApp.AssemblyInfo.cs
+C:\Projects\Railways\Railways.ConsoleApp\obj\Debug\netcoreapp2.1\Railways.ConsoleApp.csproj.CopyComplete
+C:\Projects\Railways\Railways.ConsoleApp\obj\Debug\netcoreapp2.1\Railways.ConsoleApp.dll
+C:\Projects\Railways\Railways.ConsoleApp\obj\Debug\netcoreapp2.1\Railways.ConsoleApp.pdb

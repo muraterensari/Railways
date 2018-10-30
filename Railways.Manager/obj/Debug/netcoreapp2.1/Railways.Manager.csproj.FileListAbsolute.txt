@@ -1,0 +1,9 @@
+C:\Projects\Railways\Railways.Manager\bin\Debug\netcoreapp2.1\Railways.Manager.deps.json
+C:\Projects\Railways\Railways.Manager\bin\Debug\netcoreapp2.1\Railways.Manager.dll
+C:\Projects\Railways\Railways.Manager\bin\Debug\netcoreapp2.1\Railways.Manager.pdb
+C:\Projects\Railways\Railways.Manager\obj\Debug\netcoreapp2.1\Railways.Manager.csprojAssemblyReference.cache
+C:\Projects\Railways\Railways.Manager\obj\Debug\netcoreapp2.1\Railways.Manager.csproj.CoreCompileInputs.cache
+C:\Projects\Railways\Railways.Manager\obj\Debug\netcoreapp2.1\Railways.Manager.AssemblyInfoInputs.cache
+C:\Projects\Railways\Railways.Manager\obj\Debug\netcoreapp2.1\Railways.Manager.AssemblyInfo.cs
+C:\Projects\Railways\Railways.Manager\obj\Debug\netcoreapp2.1\Railways.Manager.dll
+C:\Projects\Railways\Railways.Manager\obj\Debug\netcoreapp2.1\Railways.Manager.pdb

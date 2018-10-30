@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Railways.ConsoleApp", "Railways.ConsoleApp\Railways.ConsoleApp.csproj", "{7ACB8A65-C1FB-467E-98DF-D54A366875AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Railways.Manager", "Railways.Manager\Railways.Manager.csproj", "{9B992355-EAB2-453C-8EB0-763A5472D424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ACB8A65-C1FB-467E-98DF-D54A366875AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACB8A65-C1FB-467E-98DF-D54A366875AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACB8A65-C1FB-467E-98DF-D54A366875AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACB8A65-C1FB-467E-98DF-D54A366875AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B992355-EAB2-453C-8EB0-763A5472D424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B992355-EAB2-453C-8EB0-763A5472D424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B992355-EAB2-453C-8EB0-763A5472D424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B992355-EAB2-453C-8EB0-763A5472D424}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E684EA64-9513-47F3-9095-3313014D2673}
+	EndGlobalSection
+EndGlobal
